@@ -1,6 +1,18 @@
-# 💫 About Me:
-I'm a Jr. Developer specializing in C# and SQL, working on database management, backend development, and IIS protocols. I also have experience with JavaScript, HTML, and other technologies, building efficient and scalable applications.<br><br>💡 What I'm working on:<br>Enhancing my backend development skills while exploring new approaches to data management and optimization.<br><br>🤝 What I'm looking to collaborate on:<br>Projects related to AI, data processing, and object-oriented programming—always eager to contribute and expand my expertise.<br><br>📚 What I'm currently learning:<br>Deepening my knowledge of OOP principles, database optimization, and AI-driven development.<br><br>🌀 Fun fact:<br>Outside of coding, I love science fiction—especially dystopian novels—and outdoor activities like hiking and bouldering.
+I'm currently pursuing a **Master’s degree in Computer Science and Engineering**, with a strong interest in **Artificial Intelligence and Machine Learning**.<br>
+My main focus is on building intelligent systems and exploring how data-driven approaches can be applied to solve complex real-world problems.<br><br>
 
+💡 **What I'm working on:**<br>
+Developing projects related to **Machine Learning, AI, and data-driven systems**, while strengthening my skills in Python and scalable computational solutions.<br><br>
+
+🤝 **What I'm looking to collaborate on:**<br>
+Projects involving **Artificial Intelligence, Machine Learning, Computer Vision, and data analysis**.<br>
+I'm especially interested in research-oriented collaborations and open-source AI projects.<br><br>
+
+📚 **What I'm currently learning:**<br>
+Advanced topics in **Machine Learning, probabilistic models, and AI algorithms**, along with practical experience using modern ML frameworks and tools.<br><br>
+
+🌀 **Fun fact:**<br>
+Outside of coding and research, I enjoy **science fiction—especially dystopian novels—and outdoor activities like hiking and bouldering.**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abrilrys#0232) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrilrys/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abril.reyesflo@gmail.com) 
