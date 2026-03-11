@@ -1,4 +1,4 @@
-I'm currently pursuing a **Master’s degree in Computer Science and Engineering**, with a strong interest in **Artificial Intelligence and Machine Learning**.<br>
+I'm a Computer Science graduate student currently pursuing a Master’s degree in Computer Science and Engineering, with a strong interest in **Artificial Intelligence and Machine Learning**.<br>
 My main focus is on building intelligent systems and exploring how data-driven approaches can be applied to solve complex real-world problems.<br><br>
 
 💡 **What I'm working on:**<br>
