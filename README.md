@@ -16,13 +16,13 @@ I'm especially interested in research-oriented collaborations and open-source AI
 
 Here are some cool projects I have contributed to:
 
-- Ideomotor Error Dynamics For Learning (https://github.com/abrilrys/Ideomotor_Error_Dynamics)
+- [Ideomotor Error Dynamics For Learning] (https://github.com/abrilrys/Ideomotor_Error_Dynamics)
   - My bachelor's thesis
 
-- Sci-Fat (https://github.com/abrilrys/ProyectoIA-2026-1)
+- [Sci-Fat] (https://github.com/abrilrys/ProyectoIA-2026-1)
   - AI Diet recommendation system
 
-- Text Classification (https://github.com/abrilrys/Proyecto_IA)
+- [Text Classification] (https://github.com/abrilrys/Proyecto_IA)
   - Naive Bayes For Text Classification
 
 
