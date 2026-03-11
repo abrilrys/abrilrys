@@ -14,8 +14,17 @@ I'm currently developing projects related to **Machine Learning, AI, and data-dr
 I'm looking forward to colaborate on projects involving **Artificial Intelligence, Machine Learning, Computer Vision, and data analysis**.<br>
 I'm especially interested in research-oriented collaborations and open-source AI projects.<br><br>
 
+Here are some cool projects I have contributed to:
 
-I'm currently learning advanced topics in **Machine Learning, probabilistic models, and AI algorithms**, along with practical experience using modern ML frameworks and tools.<br><br>
+- Ideomotor Error Dynamics For Learning (https://github.com/abrilrys/Ideomotor_Error_Dynamics)
+  - My bachelor's thesis
+
+- Sci-Fat (https://github.com/abrilrys/ProyectoIA-2026-1)
+  - AI Diet recommendation system
+
+- Text Classification (https://github.com/abrilrys/Proyecto_IA)
+  - Naive Bayes For Text Classification
+
 
 Hobbies: <br>
 - Reading dystopian novels
